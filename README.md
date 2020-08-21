@@ -40,6 +40,9 @@ https://github.com/ed-wright/scouts
 https://github.com/JackTombola/Static_Website_HTML  
 https://github.com/jwpotter/scouts_website  
 
+### Training & Leader Support
+https://github.com/penalosa/yl-training
+
 ### Active Support
 https://github.com/richark514/Nsarg2018Web  
 
@@ -78,8 +81,10 @@ https://github.com/dbreakers/compassread
 https://github.com/AndrewBarber/ScoutsPrettier  
 https://github.com/MerseyWeaverScouts/scoutmap  
 
-# Programme Resource
-https://github.com/echinus/scout-badges  
+## Programme Resource
+https://github.com/MistaSee/Scouts-DM3-Interactive-Map-Activity  
+
+### Raspberry Pi
 https://github.com/raspberrypilearning/scouts-do-it-pass-it  
 https://github.com/raspberrypilearning/scouts-compass-coding  
 https://github.com/raspberrypilearning/scouts-graphics  
@@ -90,4 +95,17 @@ https://github.com/raspberrypilearning/scouts-downloads
 https://github.com/raspberrypilearning/scouts-team-chooser  
 https://github.com/raspberrypilearning/scouts-video  
 https://github.com/raspberrypilearning/scouts-scratch  
+
+### Badges
+https://github.com/echinus/scout-badges  
 https://github.com/scoutr/uk.scoutbadges.app  
+https://github.com/GeoffAtHome/ScoutBadges  
+https://github.com/timlyo/ScoutBadges
+https://github.com/Danomanic/scouts-badgework
+
+### Digital Badges
+https://github.com/tawilkinson/digitalmaker  
+https://github.com/tawilkinson/digital_maker_templates  
+https://github.com/stewartadcock/1st-linton-scouts  
+
+
