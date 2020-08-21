@@ -39,6 +39,16 @@ https://github.com/trubru/Pioneer
 https://github.com/JackFurby/Bootscout-theme  
 https://github.com/adamboutcher/Scoutstrap  
 
+### Wordpress
+https://github.com/west-sussex-scouts/generic-wordpress-theme  
+https://github.com/neades/netherlee-scout-wp-theme  
+https://github.com/Escouts/EverydayAdventure4Wordpress  
+https://github.com/Escouts/iScout4Wordpress  
+https://github.com/Escouts/scout4Wordpress  
+https://github.com/emdeedee/iscout4wordpress  
+https://github.com/emdeedee/scouts4wordpress  
+https://github.com/Tea23/woggle4wordpress  
+
 ## Apps
 https://github.com/CubScoutCake/DistrictUserUploader  
 https://github.com/LBDistrictScouts/DistrictLeaders  
