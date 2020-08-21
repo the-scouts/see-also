@@ -73,13 +73,28 @@ https://github.com/Tea23/woggle4wordpress
 ## Apps
 https://github.com/CubScoutCake/DistrictUserUploader  
 https://github.com/LBDistrictScouts/DistrictLeaders  
+https://github.com/rijnhardtkotze/tuckshop  
+https://github.com/dbreakers/leaderjourney  
+https://github.com/fireeagle1/Leader-2 (clone of leaderjourney)  
+https://github.com/dbreakers/OSM-Meeting-  
+https://github.com/fireeagle1/OSM-Read (clone of OSM-Meeting)  
+https://github.com/CheshireScouts/data-tracker  
+https://github.com/zakwarren/nightsawayforms  
+https://github.com/artfulbodger/devonscouts  
+https://github.com/hippysurfer/family-camp  
 
 ## Tools 
 https://github.com/dbreakers/compassread  
+https://github.com/Tomect/OSM-PHP-API  
+https://github.com/Danomanic/gme-data-api  
+https://github.com/Danomanic/compass2office365  
+https://github.com/artfulbodger/dsCompassSync  
+https://github.com/hippysurfer/scout-records  
 
 ## Related Resources
 https://github.com/AndrewBarber/ScoutsPrettier  
 https://github.com/MerseyWeaverScouts/scoutmap  
+https://github.com/trbell1998/i.Scout-Digital  
 
 ## Programme Resource
 https://github.com/MistaSee/Scouts-DM3-Interactive-Map-Activity  
