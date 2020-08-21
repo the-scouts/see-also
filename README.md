@@ -29,6 +29,24 @@ https://github.com/1stlettygreen/old-site
 https://github.com/thomson02/gotWoggle  
 https://github.com/TickleThePanda/4th-moreton-scouts (archived)  
 https://github.com/AuscultaLtd/wpendeavour  
+https://github.com/1stpoulnerscouts/1stpoulnerscouts.github.io  
+https://github.com/callumhearne/7th-Gateshead-Scouts  
+https://github.com/CabotExplorers/website  
+https://github.com/morrisong/baughurstsgg.github.com  
+https://github.com/12th74thLeicesterScouts/12th74thLeicesterScouts.github.io  
+https://github.com/Clarkuu/scout-new  
+https://github.com/ed-wright/scouts-website  
+https://github.com/ed-wright/scouts  
+https://github.com/JackTombola/Static_Website_HTML  
+https://github.com/jwpotter/scouts_website  
+
+### Active Support
+https://github.com/richark514/Nsarg2018Web  
+
+### Events
+https://github.com/widegame/moonlight-2020-portal  
+https://github.com/paser13/Jurassic-International-Jamboree-2018  
+https://github.com/mmaarrkk2001/IncidentHike
 
 ### Campsites
 https://github.com/hamletwood/hamletwood.github.com  
