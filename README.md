@@ -59,6 +59,7 @@ https://github.com/nickeblewis/BentleyCopseCampsite
 https://github.com/trubru/Pioneer  
 https://github.com/JackFurby/Bootscout-theme  
 https://github.com/adamboutcher/Scoutstrap  
+https://github.com/scoutstrap/scoutstrap  
 
 ### Wordpress
 https://github.com/west-sussex-scouts/generic-wordpress-theme  
@@ -131,6 +132,7 @@ https://github.com/CubScoutCake
 https://github.com/Escouts  
 https://github.com/west-sussex-scouts  
 https://github.com/CabotExplorers  
+https://github.com/scoutstrap
 
 ### GH Pages / website only
 https://github.com/hamletwood  
