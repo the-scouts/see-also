@@ -133,6 +133,7 @@ https://github.com/Escouts
 https://github.com/west-sussex-scouts  
 https://github.com/CabotExplorers  
 https://github.com/scoutstrap
+https://github.com/ScoutsOnline  
 
 ### GH Pages / website only
 https://github.com/hamletwood  
@@ -140,3 +141,14 @@ https://github.com/6th-Morpeth-Scouts
 https://github.com/3rdRingwood  
 https://github.com/GoldthorpeScouts  
 https://github.com/worcester-esu  
+https://github.com/nottsa  
+https://github.com/Nanpantan-Scouts  
+
+### Currently empty
+https://github.com/CotswoldScouts  
+https://github.com/CheltenhamScouts  
+https://github.com/1st-Abram-Scouts  
+https://github.com/ScoutHost  
+https://github.com/1st-gossoms-end-scouts  
+https://github.com/1st-2nd-Horley-Scouts  
+https://github.com/WiltshireNorthScouts  
