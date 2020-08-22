@@ -123,4 +123,18 @@ https://github.com/tawilkinson/digitalmaker
 https://github.com/tawilkinson/digital_maker_templates  
 https://github.com/stewartadcock/1st-linton-scouts  
 
+## GitHub Organisations
+https://github.com/MerseyWeaverScouts  
+https://github.com/CheshireScouts  
+https://github.com/LBDistrictScouts  
+https://github.com/CubScoutCake  
+https://github.com/Escouts  
+https://github.com/west-sussex-scouts  
+https://github.com/CabotExplorers  
 
+### GH Pages / website only
+https://github.com/hamletwood  
+https://github.com/6th-Morpeth-Scouts
+https://github.com/3rdRingwood
+https://github.com/GoldthorpeScouts
+https://github.com/worcester-esu
