@@ -134,7 +134,7 @@ https://github.com/CabotExplorers
 
 ### GH Pages / website only
 https://github.com/hamletwood  
-https://github.com/6th-Morpeth-Scouts
-https://github.com/3rdRingwood
-https://github.com/GoldthorpeScouts
-https://github.com/worcester-esu
+https://github.com/6th-Morpeth-Scouts  
+https://github.com/3rdRingwood  
+https://github.com/GoldthorpeScouts  
+https://github.com/worcester-esu  
