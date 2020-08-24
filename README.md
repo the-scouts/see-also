@@ -41,7 +41,8 @@ https://github.com/JackTombola/Static_Website_HTML
 https://github.com/jwpotter/scouts_website  
 
 ### Training & Leader Support
-https://github.com/penalosa/yl-training
+https://github.com/RyanT5/yl-training
+https://github.com/penalosa/yl-training (forked from RyanT5/yl-training)
 
 ### Active Support
 https://github.com/richark514/Nsarg2018Web  
