@@ -10,7 +10,6 @@ https://github.com/mouadhnemri/westminsterscouts.org.uk
 https://github.com/tmaguire/withamscouts.org.uk  
 https://github.com/3rdRingwood/3rdringwood.github.io  
 https://github.com/gavbarnett/1stNewmacharScouts  
-https://github.com/tmaguire/withamscouts.org.uk  
 https://github.com/StueyKent/stratton-scouts  
 https://github.com/GoldthorpeScouts/goldthorpescouts  
 https://github.com/GoldthorpeScouts/goldthorpescouts.github.io  
@@ -22,7 +21,6 @@ https://github.com/limograf/caldervalleyscouts
 https://github.com/DamianZaremba/7tharochdale.org.uk  
 https://github.com/DamianZaremba/Rochdale-pioneer-explorer-scout-unit  
 https://github.com/almastrutt/obanshire-cub-scouts  
-https://github.com/gavbarnett/1stNewmacharScouts  
 https://github.com/IJMacD/15thdovercdn  
 https://github.com/Danomanic/tamesidesouthscouts  
 https://github.com/1stlettygreen/old-site  
@@ -41,7 +39,7 @@ https://github.com/JackTombola/Static_Website_HTML
 https://github.com/jwpotter/scouts_website  
 
 ### Training & Leader Support
-https://github.com/RyanT5/yl-training
+https://github.com/RyanT5/yl-training  
 https://github.com/penalosa/yl-training (forked from RyanT5/yl-training)
 
 ### Active Support
@@ -112,6 +110,7 @@ https://github.com/raspberrypilearning/scouts-downloads
 https://github.com/raspberrypilearning/scouts-team-chooser  
 https://github.com/raspberrypilearning/scouts-video  
 https://github.com/raspberrypilearning/scouts-scratch  
+https://github.com/raspberrypilearning/scouts-leaf-identifier  
 
 ### Badges
 https://github.com/echinus/scout-badges  
@@ -133,7 +132,7 @@ https://github.com/CubScoutCake
 https://github.com/Escouts  
 https://github.com/west-sussex-scouts  
 https://github.com/CabotExplorers  
-https://github.com/scoutstrap
+https://github.com/scoutstrap  
 https://github.com/ScoutsOnline  
 https://github.com/PyScoutsUK  
 
