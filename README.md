@@ -135,6 +135,7 @@ https://github.com/west-sussex-scouts
 https://github.com/CabotExplorers  
 https://github.com/scoutstrap
 https://github.com/ScoutsOnline  
+https://github.com/PyScoutsUK  
 
 ### GH Pages / website only
 https://github.com/hamletwood  
