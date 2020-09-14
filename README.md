@@ -59,6 +59,7 @@ https://github.com/trubru/Pioneer
 https://github.com/JackFurby/Bootscout-theme  
 https://github.com/adamboutcher/Scoutstrap  
 https://github.com/scoutstrap/scoutstrap  
+https://github.com/scoutr/bootstrap_scouts_uk  
 
 ### Wordpress
 https://github.com/west-sussex-scouts/generic-wordpress-theme  
@@ -90,6 +91,7 @@ https://github.com/Danomanic/gme-data-api
 https://github.com/Danomanic/compass2office365  
 https://github.com/artfulbodger/dsCompassSync  
 https://github.com/hippysurfer/scout-records  
+https://github.com/FAC9/scouts-id  
 
 ## Related Resources
 https://github.com/AndrewBarber/ScoutsPrettier  
@@ -116,13 +118,15 @@ https://github.com/raspberrypilearning/scouts-leaf-identifier
 https://github.com/echinus/scout-badges  
 https://github.com/scoutr/uk.scoutbadges.app  
 https://github.com/GeoffAtHome/ScoutBadges  
-https://github.com/timlyo/ScoutBadges
-https://github.com/Danomanic/scouts-badgework
+https://github.com/timlyo/ScoutBadges  
+https://github.com/Danomanic/scouts-badgework  
 
 ### Digital Badges
 https://github.com/tawilkinson/digitalmaker  
 https://github.com/tawilkinson/digital_maker_templates  
 https://github.com/stewartadcock/1st-linton-scouts  
+https://github.com/miketrebilcock/scouts-digital-maker-stage1  
+https://github.com/drtortoise/scouts  
 
 ## GitHub Organisations
 https://github.com/MerseyWeaverScouts  
@@ -135,6 +139,7 @@ https://github.com/CabotExplorers
 https://github.com/scoutstrap  
 https://github.com/ScoutsOnline  
 https://github.com/PyScoutsUK  
+https://github.com/scoutr  
 
 ### GH Pages / website only
 https://github.com/hamletwood  
