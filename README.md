@@ -92,6 +92,7 @@ https://github.com/Danomanic/compass2office365
 https://github.com/artfulbodger/dsCompassSync  
 https://github.com/hippysurfer/scout-records  
 https://github.com/FAC9/scouts-id  
+https://github.com/rglss/scouts-risk-assessment-api  
 
 ## Related Resources
 https://github.com/AndrewBarber/ScoutsPrettier  
