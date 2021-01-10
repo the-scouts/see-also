@@ -48,7 +48,6 @@ https://github.com/DamianZaremba/7tharochdale.org.uk
 https://github.com/DamianZaremba/Rochdale-pioneer-explorer-scout-unit  
 https://github.com/almastrutt/obanshire-cub-scouts  
 https://github.com/IJMacD/15thdovercdn  
-https://github.com/Danomanic/tamesidesouthscouts  
 https://github.com/1stlettygreen/old-site  
 https://github.com/thomson02/gotWoggle  
 https://github.com/TickleThePanda/4th-moreton-scouts (archived)  
@@ -66,6 +65,7 @@ https://github.com/jwpotter/scouts_website
 https://github.com/RoystonScouts/www  
 https://github.com/Stubbs1234/Weston-Wychwood-Scouts  
 https://github.com/pkirwan/21sthammersmith  
+https://github.com/Danomanic/scouts.stream  
 
 ## Training & Leader Support
 https://github.com/RyanT5/yl-training  
@@ -137,6 +137,9 @@ https://github.com/dbreakers/ra4osm
 https://github.com/dbreakers/compassread  
 https://github.com/Danomanic/gme-data-api  
 https://github.com/Danomanic/gme-data-import  
+https://github.com/Danomanic/gme-training-converter  
+https://github.com/Danomanic/gme-data-client  
+https://github.com/Danomanic/tss-engage  
 https://github.com/Danomanic/tss-engage-api  
 https://github.com/Danomanic/compass2office365  
 https://github.com/artfulbodger/dsCompassSync  
