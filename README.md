@@ -37,6 +37,9 @@ https://github.com/ed-wright/scouts-website
 https://github.com/ed-wright/scouts  
 https://github.com/JackTombola/Static_Website_HTML  
 https://github.com/jwpotter/scouts_website  
+https://github.com/RoystonScouts/www  
+https://github.com/Stubbs1234/Weston-Wychwood-Scouts  
+https://github.com/pkirwan/21sthammersmith  
 
 ### Training & Leader Support
 https://github.com/RyanT5/yl-training  
@@ -60,6 +63,7 @@ https://github.com/JackFurby/Bootscout-theme
 https://github.com/adamboutcher/Scoutstrap  
 https://github.com/scoutstrap/scoutstrap  
 https://github.com/scoutr/bootstrap_scouts_uk  
+https://github.com/mtmeyrick/Scout_Groups  
 
 ### Wordpress
 https://github.com/west-sussex-scouts/generic-wordpress-theme  
@@ -70,6 +74,7 @@ https://github.com/Escouts/scout4Wordpress
 https://github.com/emdeedee/iscout4wordpress  
 https://github.com/emdeedee/scouts4wordpress  
 https://github.com/Tea23/woggle4wordpress  
+https://github.com/mtmeyrick/WP-Scout-Group  
 
 ## Apps
 https://github.com/CubScoutCake/DistrictUserUploader  
@@ -77,22 +82,52 @@ https://github.com/LBDistrictScouts/DistrictLeaders
 https://github.com/rijnhardtkotze/tuckshop  
 https://github.com/dbreakers/leaderjourney  
 https://github.com/fireeagle1/Leader-2 (clone of leaderjourney)  
-https://github.com/dbreakers/OSM-Meeting-  
-https://github.com/fireeagle1/OSM-Read (clone of OSM-Meeting)  
 https://github.com/CheshireScouts/data-tracker  
 https://github.com/zakwarren/nightsawayforms  
 https://github.com/artfulbodger/devonscouts  
 https://github.com/hippysurfer/family-camp  
+https://github.com/benclifford/MSE  
+https://github.com/CubScoutCake/CubEventBooking  
+
+### Apps - Online Scout Manager (OSM)
+https://github.com/dbreakers/OSM-Meeting-  
+https://github.com/fireeagle1/OSM-Read (clone of OSM-Meeting)  
+https://github.com/osm-extender/osm-extender  
+https://github.com/naggyman/osm-mobile  
+https://github.com/BrendanLester/sync-osm-to-xero  
 
 ## Tools 
 https://github.com/dbreakers/compassread  
-https://github.com/Tomect/OSM-PHP-API  
 https://github.com/Danomanic/gme-data-api  
 https://github.com/Danomanic/compass2office365  
 https://github.com/artfulbodger/dsCompassSync  
 https://github.com/hippysurfer/scout-records  
 https://github.com/FAC9/scouts-id  
 https://github.com/rglss/scouts-risk-assessment-api  
+https://github.com/bluerhinos/phpOSM  
+
+### Tools - OSM
+https://github.com/Tomect/OSM-PHP-API  
+https://github.com/Danomanic/osm-node  
+https://github.com/osm-extender/osm (UNSUPORTED)  
+https://github.com/atf2/osm  
+https://github.com/mattcollins171/oauth2-osm  
+https://github.com/mattradford/online-scout-manager  
+https://git.drupalcode.org/project/osm  
+https://github.com/ivebeenlinuxed/osm  
+https://github.com/mtmeyrick/osm  
+https://github.com/mtmeyrick/osm4joomla  
+https://github.com/CSmither/tsm  
+https://github.com/grafster/grav-plugin-online-scout-manager  
+https://github.com/hippysurfer/pyosm  
+https://github.com/craigsammisutherland/osm.api  
+
+## APIs
+
+### API Documentation - OSM
+https://documenter.getpostman.com/view/1618329/SWTHbEzb  
+https://onlinescoutmanager.docs.apiary.io/  
+https://github.com/ollytheninja/OSM-API-Docs  
 
 ## Related Resources
 https://github.com/AndrewBarber/ScoutsPrettier  
