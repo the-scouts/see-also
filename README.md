@@ -114,6 +114,15 @@ https://github.com/artfulbodger/devonscouts
 https://github.com/hippysurfer/family-camp  
 https://github.com/benclifford/MSE  
 https://github.com/CubScoutCake/CubEventBooking  
+https://github.com/threadhead/scoutz (BSA - USA)  
+https://github.com/jaketollette/ScoutApp (BSA - USA)  
+https://github.com/johnnymo87/Scouting (BSA - USA)  
+https://github.com/carltoncubs/pax (Scouts Australia - AUS)  
+https://github.com/carltoncubs/flora (Scouts Australia - AUS)  
+https://github.com/carltoncubs/horae (Scouts Australia - AUS)  
+https://github.com/Soothsilver/age-of-scouts (CZE)  
+https://github.com/Danomanic/coly-scouts  
+https://github.com/spenmath/ScoutsEMSIssues  
 
 ## Apps - Online Scout Manager (OSM)
 https://github.com/dbreakers/OSM-Meeting-  
@@ -121,16 +130,22 @@ https://github.com/fireeagle1/OSM-Read (clone of OSM-Meeting)
 https://github.com/osm-extender/osm-extender  
 https://github.com/naggyman/osm-mobile  
 https://github.com/BrendanLester/sync-osm-to-xero  
+https://github.com/dbreakers/groupbuilder  
+https://github.com/dbreakers/ra4osm  
 
 # Tools 
 https://github.com/dbreakers/compassread  
 https://github.com/Danomanic/gme-data-api  
+https://github.com/Danomanic/gme-data-import  
+https://github.com/Danomanic/tss-engage-api  
 https://github.com/Danomanic/compass2office365  
 https://github.com/artfulbodger/dsCompassSync  
 https://github.com/hippysurfer/scout-records  
 https://github.com/FAC9/scouts-id  
 https://github.com/rglss/scouts-risk-assessment-api  
-https://github.com/bluerhinos/phpOSM  
+https://github.com/dbreakers/printeventra  
+https://github.com/dbreakers/sectionrasummary  
+https://github.com/dbreakers/compasspuppeteer  
 
 ## Tools - OSM
 https://github.com/Tomect/OSM-PHP-API  
@@ -147,6 +162,9 @@ https://github.com/CSmither/tsm
 https://github.com/grafster/grav-plugin-online-scout-manager  
 https://github.com/hippysurfer/pyosm  
 https://github.com/craigsammisutherland/osm.api  
+https://github.com/bluerhinos/phpOSM  
+https://github.com/mattradford/osm-helper  
+https://github.com/dbreakers/osmr  
 
 # APIs
 
@@ -162,6 +180,9 @@ https://github.com/trbell1998/i.Scout-Digital
 
 # Programme Resource
 https://github.com/MistaSee/Scouts-DM3-Interactive-Map-Activity  
+https://github.com/1st-Loch-Lomond-Scout-Group/campfire-songs  
+https://github.com/Danomanic/escape-room  
+https://github.com/Danomanic/1hg-hunt  
 
 ## Raspberry Pi
 https://github.com/raspberrypilearning/scouts-do-it-pass-it  
@@ -202,6 +223,9 @@ https://github.com/scoutstrap
 https://github.com/ScoutsOnline  
 https://github.com/PyScoutsUK  
 https://github.com/scoutr  
+https://github.com/1st-burnham-on-sea-scout-group  
+https://github.com/1st-Loch-Lomond-Scout-Group  
+https://github.com/carltoncubs (Scouts Australia - AUS)  
 
 ## GH Pages / website only
 https://github.com/hamletwood  
