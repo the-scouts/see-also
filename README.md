@@ -1,7 +1,7 @@
 # See Also
 Other repos and organisations with Scouts related content!
 
-Licence: [MIT](LICENSE)
+Licence: [MIT](LICENSE.txt)
 
 # Table of Contents
 
@@ -15,9 +15,10 @@ Licence: [MIT](LICENSE)
 * [Apps](#apps)
   * [Apps \- Online Scout Manager (OSM)](#apps---online-scout-manager-osm)
   * [Apps \- Bots](#apps---bots)
-  * [Apps \- USA \- BSA](#apps---usa---bsa)
-  * [Apps \- AUS \- Scouts Australia](#apps---aus---scouts-australia)
-  * [Apps \- CZE \- Czech Scouting](#apps---cze---czech-scouting)
+  * [Apps \- Non UK](#apps---non-uk)
+    * [Apps \- USA \- BSA](#usa---bsa)
+    * [Apps \- AUS \- Scouts Australia](#aus---scouts-australia-1)
+    * [Apps \- CZE \- Czech Scouting](#cze---czech-scouting)
 * [Tools](#tools)
   * [Tools \- Compass Scrapers](#tools---compass-scrapers)
   * [Tools \- Mapping](#tools---mapping)
@@ -32,7 +33,8 @@ Licence: [MIT](LICENSE)
 * [GitHub Organisations](#github-organisations)
   * [GH Pages / website only](#gh-pages--website-only)
   * [Currently empty](#currently-empty)
-  * [GH Orgs \- AUS \- Scouts Australia](#gh-orgs---aus---scouts-australia)
+  * [GH Orgs \- Non UK](#gh-orgs---non-uk)
+    * [AUS \- Scouts Australia](#aus---scouts-australia-2)
 
 # Websites
 https://github.com/6th-Morpeth-Scouts/6th-Morpeth-Scouts.github.io  
@@ -143,19 +145,20 @@ https://github.com/dbreakers/ra4osm
 https://github.com/CabotExplorers/CaBot  
 https://github.com/bxdavies/monopoly-run-discord-bot  
 
-## Apps - USA - BSA
+## Apps - Non UK
+### USA - BSA
 https://github.com/threadhead/scoutz  
 https://github.com/jaketollette/ScoutApp  
 https://github.com/johnnymo87/Scouting  
 https://github.com/nightshaddow13/CampMaster  
 https://github.com/rogergrambihler/troopmaster
 
-## Apps - AUS - Scouts Australia
+### AUS - Scouts Australia
 https://github.com/carltoncubs/pax  
 https://github.com/carltoncubs/flora  
 https://github.com/carltoncubs/horae
 
-## Apps - CZE - Czech Scouting
+### CZE - Czech Scouting
 https://github.com/Soothsilver/age-of-scouts
 
 # Tools
@@ -279,5 +282,6 @@ https://github.com/1st-gossoms-end-scouts
 https://github.com/1st-2nd-Horley-Scouts  
 https://github.com/WiltshireNorthScouts  
 
-## GH Orgs - AUS - Scouts Australia
+## GH Orgs - Non UK
+### AUS - Scouts Australia
 https://github.com/carltoncubs  
