@@ -14,6 +14,8 @@ Licence: [MIT](LICENSE.txt)
 * [Website Resources](#website-resources)
   * [Bootstrap](#bootstrap)
   * [Wordpress](#wordpress)
+    * [Skills For Life (2018)](#skills-for-life-2018)
+    * [Fun, Challenge, Adventure (2007)](#fun-challenge-adventure-2007)
 * [Apps](#apps)
   * [Apps \- Online Scout Manager (OSM)](#apps---online-scout-manager-osm)
   * [Apps \- Bots](#apps---bots)
@@ -110,9 +112,13 @@ https://github.com/scoutstrap/scoutstrap
 https://github.com/scoutr/bootstrap_scouts_uk  
 
 ## Wordpress
+
+## Skills For Life (2018)
 https://github.com/west-sussex-scouts/generic-wordpress-theme  
 https://github.com/west-sussex-scouts/county-wordpress-theme  
 https://github.com/west-sussex-scouts/wsij-wordpress-theme  
+
+## Fun, Challenge, Adventure (2007)
 https://github.com/neades/netherlee-scout-wp-theme  
 https://github.com/Escouts/EverydayAdventure4Wordpress  
 https://github.com/Escouts/iScout4Wordpress  
