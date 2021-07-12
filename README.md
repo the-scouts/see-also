@@ -14,7 +14,13 @@ Licence: [MIT](LICENSE)
   * [Wordpress](#wordpress)
 * [Apps](#apps)
   * [Apps \- Online Scout Manager (OSM)](#apps---online-scout-manager-osm)
+  * [Apps \- Bots](#apps---bots)
+  * [Apps \- USA \- BSA](#apps---usa---bsa)
+  * [Apps \- AUS \- Scouts Australia](#apps---aus---scouts-australia)
+  * [Apps \- CZE \- Czech Scouting](#apps---cze---czech-scouting)
 * [Tools](#tools)
+  * [Tools \- Compass Scrapers](#tools---compass-scrapers)
+  * [Tools \- Mapping](#tools---mapping)
   * [Tools \- OSM](#tools---osm)
 * [APIs](#apis)
   * [API Documentation \- OSM](#api-documentation---osm)
@@ -26,6 +32,7 @@ Licence: [MIT](LICENSE)
 * [GitHub Organisations](#github-organisations)
   * [GH Pages / website only](#gh-pages--website-only)
   * [Currently empty](#currently-empty)
+  * [GH Orgs \- AUS \- Scouts Australia](#gh-orgs---aus---scouts-australia)
 
 # Websites
 https://github.com/6th-Morpeth-Scouts/6th-Morpeth-Scouts.github.io  
@@ -66,10 +73,12 @@ https://github.com/RoystonScouts/www
 https://github.com/Stubbs1234/Weston-Wychwood-Scouts  
 https://github.com/pkirwan/21sthammersmith  
 https://github.com/Danomanic/scouts.stream  
+https://github.com/CabotExplorers/cabotcamp  
+https://github.com/mattradford/finch  
 
 ## Training & Leader Support
 https://github.com/RyanT5/yl-training  
-https://github.com/penalosa/yl-training (forked from RyanT5/yl-training)
+https://github.com/penalosa/yl-training (forked from RyanT5/yl-training)  
 
 ## Active Support
 https://github.com/richark514/Nsarg2018Web  
@@ -77,7 +86,8 @@ https://github.com/richark514/Nsarg2018Web
 ## Events
 https://github.com/widegame/moonlight-2020-portal  
 https://github.com/paser13/Jurassic-International-Jamboree-2018  
-https://github.com/mmaarrkk2001/IncidentHike
+https://github.com/mmaarrkk2001/IncidentHike  
+https://github.com/owenjones/kohoutek  
 
 ## Campsites
 https://github.com/hamletwood/hamletwood.github.com  
@@ -93,6 +103,8 @@ https://github.com/mtmeyrick/Scout_Groups
 
 ## Wordpress
 https://github.com/west-sussex-scouts/generic-wordpress-theme  
+https://github.com/west-sussex-scouts/county-wordpress-theme  
+https://github.com/west-sussex-scouts/wsij-wordpress-theme  
 https://github.com/neades/netherlee-scout-wp-theme  
 https://github.com/Escouts/EverydayAdventure4Wordpress  
 https://github.com/Escouts/iScout4Wordpress  
@@ -114,15 +126,9 @@ https://github.com/artfulbodger/devonscouts
 https://github.com/hippysurfer/family-camp  
 https://github.com/benclifford/MSE  
 https://github.com/CubScoutCake/CubEventBooking  
-https://github.com/threadhead/scoutz (BSA - USA)  
-https://github.com/jaketollette/ScoutApp (BSA - USA)  
-https://github.com/johnnymo87/Scouting (BSA - USA)  
-https://github.com/carltoncubs/pax (Scouts Australia - AUS)  
-https://github.com/carltoncubs/flora (Scouts Australia - AUS)  
-https://github.com/carltoncubs/horae (Scouts Australia - AUS)  
-https://github.com/Soothsilver/age-of-scouts (CZE)  
 https://github.com/Danomanic/coly-scouts  
 https://github.com/spenmath/ScoutsEMSIssues  
+https://github.com/west-sussex-scouts/bookings  
 
 ## Apps - Online Scout Manager (OSM)
 https://github.com/dbreakers/OSM-Meeting-  
@@ -133,22 +139,49 @@ https://github.com/BrendanLester/sync-osm-to-xero
 https://github.com/dbreakers/groupbuilder  
 https://github.com/dbreakers/ra4osm  
 
-# Tools 
-https://github.com/dbreakers/compassread  
+## Apps - Bots
+https://github.com/CabotExplorers/CaBot  
+https://github.com/bxdavies/monopoly-run-discord-bot  
+
+## Apps - USA - BSA
+https://github.com/threadhead/scoutz  
+https://github.com/jaketollette/ScoutApp  
+https://github.com/johnnymo87/Scouting  
+https://github.com/nightshaddow13/CampMaster  
+https://github.com/rogergrambihler/troopmaster
+
+## Apps - AUS - Scouts Australia
+https://github.com/carltoncubs/pax  
+https://github.com/carltoncubs/flora  
+https://github.com/carltoncubs/horae
+
+## Apps - CZE - Czech Scouting
+https://github.com/Soothsilver/age-of-scouts
+
+# Tools
 https://github.com/Danomanic/gme-data-api  
 https://github.com/Danomanic/gme-data-import  
 https://github.com/Danomanic/gme-training-converter  
 https://github.com/Danomanic/gme-data-client  
 https://github.com/Danomanic/tss-engage  
 https://github.com/Danomanic/tss-engage-api  
-https://github.com/Danomanic/compass2office365  
-https://github.com/artfulbodger/dsCompassSync  
 https://github.com/hippysurfer/scout-records  
 https://github.com/FAC9/scouts-id  
 https://github.com/rglss/scouts-risk-assessment-api  
 https://github.com/dbreakers/printeventra  
 https://github.com/dbreakers/sectionrasummary  
+https://github.com/CabotExplorers/reconciler  
+
+## Tools - Compass Scrapers
+https://github.com/dbreakers/compassread  
+https://github.com/Danomanic/compass2office365  
+https://github.com/artfulbodger/dsCompassSync  
 https://github.com/dbreakers/compasspuppeteer  
+https://github.com/hippysurfer/scout-records/blob/master/compass.py  
+
+## Tools - Mapping
+https://github.com/MerseyWeaverScouts/scoutmap  
+https://github.com/CabotExplorers/mapper
 
 ## Tools - OSM
 https://github.com/Tomect/OSM-PHP-API  
@@ -178,7 +211,6 @@ https://github.com/ollytheninja/OSM-API-Docs
 
 # Related Resources
 https://github.com/AndrewBarber/ScoutsPrettier  
-https://github.com/MerseyWeaverScouts/scoutmap  
 https://github.com/trbell1998/i.Scout-Digital  
 
 # Programme Resource
@@ -228,7 +260,6 @@ https://github.com/PyScoutsUK
 https://github.com/scoutr  
 https://github.com/1st-burnham-on-sea-scout-group  
 https://github.com/1st-Loch-Lomond-Scout-Group  
-https://github.com/carltoncubs (Scouts Australia - AUS)  
 
 ## GH Pages / website only
 https://github.com/hamletwood  
@@ -247,3 +278,6 @@ https://github.com/ScoutHost
 https://github.com/1st-gossoms-end-scouts  
 https://github.com/1st-2nd-Horley-Scouts  
 https://github.com/WiltshireNorthScouts  
+
+## GH Orgs - AUS - Scouts Australia
+https://github.com/carltoncubs  
