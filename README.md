@@ -16,7 +16,11 @@ Licence: [MIT](LICENSE.txt)
   * [Wordpress](#wordpress)
     * [Skills For Life (2018)](#skills-for-life-2018)
     * [Fun, Challenge, Adventure (2007)](#fun-challenge-adventure-2007)
+* [Branding](#branding)
+  * [LaTeX](#latex)
+  * [Related Resources](#related-resources)
 * [Apps](#apps)
+  * [Apps \- Financial](#apps---financial)
   * [Apps \- Online Scout Manager (OSM)](#apps---online-scout-manager-osm)
   * [Apps \- Bots](#apps---bots)
   * [Apps \- Non UK](#apps---non-uk)
@@ -26,10 +30,10 @@ Licence: [MIT](LICENSE.txt)
 * [Tools](#tools)
   * [Tools \- Compass Scrapers](#tools---compass-scrapers)
   * [Tools \- Mapping](#tools---mapping)
+  * [Tools \- Office 365](#tools---office-365)
   * [Tools \- OSM](#tools---osm)
 * [APIs](#apis)
   * [API Documentation \- OSM](#api-documentation---osm)
-* [Related Resources](#related-resources)
 * [Programme Resource](#programme-resource)
   * [Raspberry Pi](#raspberry-pi)
   * [Badges](#badges)
@@ -52,7 +56,6 @@ https://github.com/AWWebDesign/CARGO-site
 https://github.com/worcester-esu/wesu-website  
 https://github.com/limograf/caldervalleyscouts  
 https://github.com/peterwetherall/1st-ascot  
-https://github.com/limograf/caldervalleyscouts  
 https://github.com/DamianZaremba/7tharochdale.org.uk  
 https://github.com/DamianZaremba/Rochdale-pioneer-explorer-scout-unit  
 https://github.com/almastrutt/obanshire-cub-scouts  
@@ -128,6 +131,15 @@ https://github.com/emdeedee/scouts4wordpress
 https://github.com/Tea23/woggle4wordpress  
 https://github.com/mtmeyrick/WP-Scout-Group  
 
+# Branding
+
+## LaTeX
+https://github.com/nimpo/GreyWolfsScoutsBeamerTheme  
+
+## Related Resources
+https://github.com/AndrewBarber/ScoutsPrettier  
+https://github.com/trbell1998/i.Scout-Digital
+
 # Apps
 https://github.com/CubScoutCake/DistrictUserUploader  
 https://github.com/LBDistrictScouts/DistrictLeaders  
@@ -136,7 +148,6 @@ https://github.com/dbreakers/leaderjourney
 https://github.com/fireeagle1/Leader-2 (clone of leaderjourney)  
 https://github.com/CheshireScouts/data-tracker  
 https://github.com/zakwarren/nightsawayforms  
-https://github.com/artfulbodger/devonscouts  
 https://github.com/hippysurfer/family-camp  
 https://github.com/benclifford/MSE  
 https://github.com/CubScoutCake/CubEventBooking  
@@ -144,13 +155,20 @@ https://github.com/Danomanic/coly-scouts
 https://github.com/spenmath/ScoutsEMSIssues  
 https://github.com/west-sussex-scouts/bookings  
 https://github.com/CabotExplorers/cabotcamp  
+https://github.com/CubScoutCake/ScoutingAssets  
+https://github.com/CubScoutCake/CubPromoCMS  
+https://github.com/yalla-coop/digital-skills-app  
+
+## Apps - Financial
+https://github.com/BrendanLester/sync-osm-to-xero  
+https://github.com/CubScoutCake/ScoutingFinance  
+https://github.com/CabotExplorers/reconciler  
 
 ## Apps - Online Scout Manager (OSM)
 https://github.com/dbreakers/OSM-Meeting-  
 https://github.com/fireeagle1/OSM-Read (clone of OSM-Meeting)  
 https://github.com/osm-extender/osm-extender  
 https://github.com/naggyman/osm-mobile  
-https://github.com/BrendanLester/sync-osm-to-xero  
 https://github.com/dbreakers/groupbuilder  
 https://github.com/dbreakers/ra4osm  
 
@@ -159,6 +177,7 @@ https://github.com/CabotExplorers/CaBot
 https://github.com/bxdavies/monopoly-run-discord-bot  
 
 ## Apps - Non UK
+
 ### USA - BSA
 https://github.com/threadhead/scoutz  
 https://github.com/jaketollette/ScoutApp  
@@ -183,10 +202,8 @@ https://github.com/Danomanic/tss-engage
 https://github.com/Danomanic/tss-engage-api  
 https://github.com/hippysurfer/scout-records  
 https://github.com/FAC9/scouts-id  
-https://github.com/rglss/scouts-risk-assessment-api  
 https://github.com/dbreakers/printeventra  
 https://github.com/dbreakers/sectionrasummary  
-https://github.com/CabotExplorers/reconciler  
 
 ## Tools - Compass Scrapers
 https://github.com/dbreakers/compassread  
@@ -198,6 +215,10 @@ https://github.com/hippysurfer/scout-records/blob/master/compass.py
 ## Tools - Mapping
 https://github.com/MerseyWeaverScouts/scoutmap  
 https://github.com/CabotExplorers/mapper
+
+## Tools - Office 365
+https://github.com/artfulbodger/devonscouts  
+https://github.com/rglss/scouts-risk-assessment-api  
 
 ## Tools - OSM
 https://github.com/Tomect/OSM-PHP-API  
@@ -217,6 +238,7 @@ https://github.com/craigsammisutherland/osm.api
 https://github.com/bluerhinos/phpOSM  
 https://github.com/mattradford/osm-helper  
 https://github.com/dbreakers/osmr  
+https://github.com/dbreakers/osmrOAuth  
 
 # APIs
 
@@ -224,10 +246,7 @@ https://github.com/dbreakers/osmr
 https://documenter.getpostman.com/view/1618329/SWTHbEzb  
 https://onlinescoutmanager.docs.apiary.io/  
 https://github.com/ollytheninja/OSM-API-Docs  
-
-# Related Resources
-https://github.com/AndrewBarber/ScoutsPrettier  
-https://github.com/trbell1998/i.Scout-Digital  
+https://github.com/CubScoutCake/OSM-Postman  
 
 # Programme Resource
 https://github.com/MistaSee/Scouts-DM3-Interactive-Map-Activity  
@@ -254,6 +273,7 @@ https://github.com/scoutr/uk.scoutbadges.app
 https://github.com/GeoffAtHome/ScoutBadges  
 https://github.com/timlyo/ScoutBadges  
 https://github.com/Danomanic/scouts-badgework  
+https://github.com/CubScoutCake/BadgeReporting  
 
 ## Digital Badges
 https://github.com/tawilkinson/digitalmaker  
@@ -296,5 +316,6 @@ https://github.com/1st-2nd-Horley-Scouts
 https://github.com/WiltshireNorthScouts  
 
 ## GH Orgs - Non UK
+
 ### AUS - Scouts Australia
 https://github.com/carltoncubs  
