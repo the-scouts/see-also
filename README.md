@@ -102,11 +102,13 @@ https://github.com/1stpoulnerscouts/1stpoulnerscouts.github.io
 https://github.com/morrisong/baughurstsgg.github.com  
 https://github.com/12th74thLeicesterScouts/12th74thLeicesterScouts.github.io  
 https://github.com/JackTombola/Static_Website_HTML  
-https://github.com/Danomanic/scouts.stream
+https://github.com/Danomanic/scouts.stream  
+https://github.com/sparksp/bandarlog.co.uk  
 
 # Website Resources
 https://github.com/trubru/Pioneer  
 https://github.com/mtmeyrick/Scout_Groups  
+https://github.com/patons02/scout-template  
 
 ## Bootstrap
 https://github.com/JackFurby/Bootscout-theme  
@@ -120,6 +122,9 @@ https://github.com/scoutr/bootstrap_scouts_uk
 https://github.com/west-sussex-scouts/generic-wordpress-theme  
 https://github.com/west-sussex-scouts/county-wordpress-theme  
 https://github.com/west-sussex-scouts/wsij-wordpress-theme  
+https://github.com/surreymagpie/campfire  
+https://github.com/surreymagpie/woggle  
+https://github.com/tobyontour/campfire  
 
 ## Fun, Challenge, Adventure (2007)
 https://github.com/neades/netherlee-scout-wp-theme  
