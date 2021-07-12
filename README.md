@@ -10,15 +10,17 @@ Licence: [MIT](LICENSE.txt)
   * [Active Support](#active-support)
   * [Events](#events)
   * [Campsites](#campsites)
+  * [Static](#static)
 * [Website Resources](#website-resources)
+  * [Bootstrap](#bootstrap)
   * [Wordpress](#wordpress)
 * [Apps](#apps)
   * [Apps \- Online Scout Manager (OSM)](#apps---online-scout-manager-osm)
   * [Apps \- Bots](#apps---bots)
   * [Apps \- Non UK](#apps---non-uk)
-    * [Apps \- USA \- BSA](#usa---bsa)
-    * [Apps \- AUS \- Scouts Australia](#aus---scouts-australia-1)
-    * [Apps \- CZE \- Czech Scouting](#cze---czech-scouting)
+    * [USA \- BSA](#usa---bsa)
+    * [AUS \- Scouts Australia](#aus---scouts-australia)
+    * [CZE \- Czech Scouting](#cze---czech-scouting)
 * [Tools](#tools)
   * [Tools \- Compass Scrapers](#tools---compass-scrapers)
   * [Tools \- Mapping](#tools---mapping)
@@ -34,20 +36,16 @@ Licence: [MIT](LICENSE.txt)
   * [GH Pages / website only](#gh-pages--website-only)
   * [Currently empty](#currently-empty)
   * [GH Orgs \- Non UK](#gh-orgs---non-uk)
-    * [AUS \- Scouts Australia](#aus---scouts-australia-2)
+    * [AUS \- Scouts Australia](#aus---scouts-australia-1)
 
 # Websites
-https://github.com/6th-Morpeth-Scouts/6th-Morpeth-Scouts.github.io  
-https://github.com/trubru/MorpethScouts  
 https://github.com/Danomanic/tamesidesouthscouts  
 https://github.com/MickleByte/longEatonDistrictSite  
 https://github.com/mouadhnemri/westminsterscouts.org.uk  
 https://github.com/tmaguire/withamscouts.org.uk  
-https://github.com/3rdRingwood/3rdringwood.github.io  
 https://github.com/gavbarnett/1stNewmacharScouts  
 https://github.com/StueyKent/stratton-scouts  
 https://github.com/GoldthorpeScouts/goldthorpescouts  
-https://github.com/GoldthorpeScouts/goldthorpescouts.github.io  
 https://github.com/AWWebDesign/CARGO-site  
 https://github.com/worcester-esu/wesu-website  
 https://github.com/limograf/caldervalleyscouts  
@@ -61,21 +59,15 @@ https://github.com/1stlettygreen/old-site
 https://github.com/thomson02/gotWoggle  
 https://github.com/TickleThePanda/4th-moreton-scouts (archived)  
 https://github.com/AuscultaLtd/wpendeavour  
-https://github.com/1stpoulnerscouts/1stpoulnerscouts.github.io  
 https://github.com/callumhearne/7th-Gateshead-Scouts  
 https://github.com/CabotExplorers/website  
-https://github.com/morrisong/baughurstsgg.github.com  
-https://github.com/12th74thLeicesterScouts/12th74thLeicesterScouts.github.io  
 https://github.com/Clarkuu/scout-new  
 https://github.com/ed-wright/scouts-website  
 https://github.com/ed-wright/scouts  
-https://github.com/JackTombola/Static_Website_HTML  
 https://github.com/jwpotter/scouts_website  
 https://github.com/RoystonScouts/www  
 https://github.com/Stubbs1234/Weston-Wychwood-Scouts  
 https://github.com/pkirwan/21sthammersmith  
-https://github.com/Danomanic/scouts.stream  
-https://github.com/CabotExplorers/cabotcamp  
 https://github.com/mattradford/finch  
 
 ## Training & Leader Support
@@ -95,13 +87,27 @@ https://github.com/owenjones/kohoutek
 https://github.com/hamletwood/hamletwood.github.com  
 https://github.com/nickeblewis/BentleyCopseCampsite  
 
+## Static
+https://github.com/trubru/MorpethScouts  
+https://github.com/trubru/PegswoodScouts  
+https://github.com/6th-Morpeth-Scouts/6th-Morpeth-Scouts.github.io  
+https://github.com/3rdRingwood/3rdringwood.github.io  
+https://github.com/GoldthorpeScouts/goldthorpescouts.github.io  
+https://github.com/1stpoulnerscouts/1stpoulnerscouts.github.io  
+https://github.com/morrisong/baughurstsgg.github.com  
+https://github.com/12th74thLeicesterScouts/12th74thLeicesterScouts.github.io  
+https://github.com/JackTombola/Static_Website_HTML  
+https://github.com/Danomanic/scouts.stream
+
 # Website Resources
 https://github.com/trubru/Pioneer  
+https://github.com/mtmeyrick/Scout_Groups  
+
+## Bootstrap
 https://github.com/JackFurby/Bootscout-theme  
 https://github.com/adamboutcher/Scoutstrap  
 https://github.com/scoutstrap/scoutstrap  
 https://github.com/scoutr/bootstrap_scouts_uk  
-https://github.com/mtmeyrick/Scout_Groups  
 
 ## Wordpress
 https://github.com/west-sussex-scouts/generic-wordpress-theme  
@@ -131,6 +137,7 @@ https://github.com/CubScoutCake/CubEventBooking
 https://github.com/Danomanic/coly-scouts  
 https://github.com/spenmath/ScoutsEMSIssues  
 https://github.com/west-sussex-scouts/bookings  
+https://github.com/CabotExplorers/cabotcamp  
 
 ## Apps - Online Scout Manager (OSM)
 https://github.com/dbreakers/OSM-Meeting-  
