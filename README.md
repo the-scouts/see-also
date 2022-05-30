@@ -252,7 +252,8 @@ https://documenter.getpostman.com/view/1618329/SWTHbEzb
 https://onlinescoutmanager.docs.apiary.io/  
 https://github.com/ollytheninja/OSM-API-Docs  
 https://github.com/CubScoutCake/OSM-Postman  
-https://opensource.newcastlescouts.org.uk
+https://github.com/newcastlescouts/osm-api-docs  
+https://opensource.newcastlescouts.org.uk  
 
 # Programme Resource
 https://github.com/MistaSee/Scouts-DM3-Interactive-Map-Activity  
