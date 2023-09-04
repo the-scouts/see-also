@@ -176,6 +176,7 @@ https://github.com/osm-extender/osm-extender
 https://github.com/naggyman/osm-mobile  
 https://github.com/dbreakers/groupbuilder  
 https://github.com/dbreakers/ra4osm  
+https://github.com/newcastlescouts/patrolplanner (https://patrolplanner.newcastlescouts.org.uk)
 
 ## Apps - Bots
 https://github.com/CabotExplorers/CaBot  
@@ -208,7 +209,7 @@ https://github.com/Danomanic/tss-engage-api
 https://github.com/hippysurfer/scout-records  
 https://github.com/FAC9/scouts-id  
 https://github.com/dbreakers/printeventra  
-https://github.com/dbreakers/sectionrasummary  
+https://github.com/dbreakers/sectionrasummary
 
 ## Tools - Compass Scrapers
 https://github.com/dbreakers/compassread  
