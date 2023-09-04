@@ -176,7 +176,7 @@ https://github.com/osm-extender/osm-extender
 https://github.com/naggyman/osm-mobile  
 https://github.com/dbreakers/groupbuilder  
 https://github.com/dbreakers/ra4osm  
-https://github.com/newcastlescouts/patrolplanner (https://patrolplanner.newcastlescouts.org.uk)
+https://github.com/newcastlescouts/patrolplanner (https://patrolplanner.newcastlescouts.org.uk)  
 
 ## Apps - Bots
 https://github.com/CabotExplorers/CaBot  
