@@ -140,6 +140,9 @@ https://github.com/mtmeyrick/WP-Scout-Group
 
 ## LaTeX
 https://github.com/nimpo/GreyWolfsScoutsBeamerTheme  
+https://www.overleaf.com/latex/templates/greywolfsscoutsbeamertheme/qygwfqrswnxx  
+https://github.com/nimpo/GreyWolfsScoutsActivityTemplate  
+https://www.overleaf.com/latex/templates/grey-wolfs-scout-activity-template/wzmkbhncztqm  
 
 ## Related Resources
 https://github.com/AndrewBarber/ScoutsPrettier  
@@ -245,6 +248,7 @@ https://github.com/bluerhinos/phpOSM
 https://github.com/mattradford/osm-helper  
 https://github.com/dbreakers/osmr  
 https://github.com/dbreakers/osmrOAuth  
+https://github.com/nimpo/getOSMAttendance (Python)  
 
 # APIs
 
