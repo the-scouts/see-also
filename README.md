@@ -125,7 +125,7 @@ https://github.com/west-sussex-scouts/wsij-wordpress-theme
 https://github.com/surreymagpie/campfire  
 https://github.com/surreymagpie/woggle  
 https://github.com/tobyontour/campfire  
-https://github.com/1st-gossoms-end-scouts/scouts-wordpress-theme
+https://github.com/1st-gossoms-end-scouts/scouts-wordpress-theme  
 
 ## Fun, Challenge, Adventure (2007)
 https://github.com/neades/netherlee-scout-wp-theme  
@@ -307,8 +307,8 @@ https://github.com/scoutstrap
 https://github.com/ScoutsOnline  
 https://github.com/PyScoutsUK  
 https://github.com/scoutr  
-https://github.com/1st-burnham-on-sea-scout-group
-https://github.com/1st-gossoms-end-scouts
+https://github.com/1st-burnham-on-sea-scout-group  
+https://github.com/1st-gossoms-end-scouts  
 https://github.com/1st-Loch-Lomond-Scout-Group  
 https://github.com/NewcastleScouts  
 
