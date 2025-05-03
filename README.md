@@ -266,6 +266,8 @@ https://github.com/MistaSee/Scouts-DM3-Interactive-Map-Activity
 https://github.com/1st-Loch-Lomond-Scout-Group/campfire-songs  
 https://github.com/Danomanic/escape-room  
 https://github.com/Danomanic/1hg-hunt  
+https://github.com/nimpo/GreyWolfsSeaEscapeOnline
+* [Hosted here](https://seascouts.co.uk/ "https://seascouts.co.uk/")
 
 ## Raspberry Pi
 https://github.com/raspberrypilearning/scouts-do-it-pass-it  
